@@ -1,2 +1,5 @@
 my firstname is neelesh.
 my surname is rawat.
+my hometown is Nanital.
+my birth place is Lucknow.
+I love to play football.
